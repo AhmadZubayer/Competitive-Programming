@@ -1,3 +1,5 @@
+// Problem: https://codeforces.com/problemset/problem/2010/B
+// Submission: https://codeforces.com/problemset/submission/2010/279368069
 #include <iostream>
 using namespace std;
 
